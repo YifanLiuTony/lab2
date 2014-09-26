@@ -35,9 +35,9 @@ public class GitLab implements EntryPoint {
 	/**
 	 * This is the entry point method.
 	 */
-	public void onModuleLoad() {
+	public void onModuleLoad(){
 	
 		ffb,ns;fbndlkdfnblkdfnb
-		dfb;lfdnb;fdbAASKFNA:SKFNASK:GBASK:GBASG:KASBGK:ASBGSAK:GBSA
+	
 	}
 }

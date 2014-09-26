@@ -37,6 +37,6 @@ public class GitLab implements EntryPoint {
 	 */
 	public void onModuleLoad() {
 	
-		//replaced this line with a comment
+		AASKFNA:SKFNASK:GBASK:GBASG:KASBGK:ASBGSAK:GBSA
 	}
 }
